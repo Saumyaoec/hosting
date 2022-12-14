@@ -1,0 +1,3 @@
+Deploy on Railway from Github
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment       ###this helps to deployment
